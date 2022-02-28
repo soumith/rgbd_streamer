@@ -1,0 +1,4 @@
+Pyro4
+numpy
+python-opencv
+blosc
